@@ -1,7 +1,7 @@
 # Tugas Pertemuan 2
 
 **Nama**  : Athifa Nathania  
-**NIM**   : H1D022031
+**NIM**   : H1D022031  
 **Shift** : F
 
 
