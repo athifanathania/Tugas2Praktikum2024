@@ -154,7 +154,6 @@ ElevatedButton.icon(
 )
 ```
 
-## Screenshot
-Berikut merupakan hasil program:
+## Screenshot Hasil
 ![Screenshot Form](input_form.png)
 ![Screenshot Form](hasil_form.png)
